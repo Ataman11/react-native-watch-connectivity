@@ -1,6 +1,7 @@
 {
   "name": "react-native-watch-connectivity-hive",
   "version": "0.2.4",
+  "description": "react-native-watch-connectivity",
   "main": "./RNWatch.ios.build.js",
   "keywords": "react-native",
   "repository": {
